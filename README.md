@@ -1,4 +1,4 @@
-                                                                        Credit Card Fraud Detection - Machine Learning Project
+Credit Card Fraud Detection - Machine Learning Project
 
 
 This project is a comprehensive hands-on machine learning pipeline to detect fraudulent credit card transactions. It includes data exploration, feature engineering, model building, evaluation, cross-validation, and class imbalance handling techniques.
